@@ -1,6 +1,6 @@
 # Trânsito Autômato
 Trabalho de Programação concorrente que visa a simulação de um Trânsito Autômato.
-* Regiões Critícas protegidas com implementação de semáforos.
+* Acesso ao recurso compartilhado entre os processos protegido por Semafóros.
 * Controle de velocidade dos carros
 * Java 8
 * JavaFX
