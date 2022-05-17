@@ -1,8 +1,6 @@
 # Trânsito Autômato
-Trabalho de Programação concorrente que visa a simulação de um Trânsito Autômato.
-* Acesso ao recurso compartilhado entre os processos protegido por Semafóros.
-* Controle de velocidade dos carros
-* Java 8
-* JavaFX
+##Trabalho de Programação Concorrente.
+O trabalho executa procesos em concorrência que compartilham um mesmo recurso. O acesso ao recurso compartilhado é controlodado através da estrutura de semáforos. Nessa simulação os processos são representados pelos corredores e o recurso compartilhado a pista de corrida. 
 
 ![SCW](src/com/nathan/res/img/scw.gif)
+
